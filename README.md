@@ -21,3 +21,6 @@ aaaa help
 
 ## dEPLOYMENT
 NEW FILE WAS IN STAGING
+
+## COPYRIGHT
+Git.tradfingsdf
